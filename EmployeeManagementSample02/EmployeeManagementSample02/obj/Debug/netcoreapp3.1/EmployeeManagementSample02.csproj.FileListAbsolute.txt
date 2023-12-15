@@ -1,0 +1,163 @@
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\EmployeeManagementSample02.exe
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\EmployeeManagementSample02.deps.json
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\EmployeeManagementSample02.runtimeconfig.json
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\EmployeeManagementSample02.runtimeconfig.dev.json
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\EmployeeManagementSample02.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\EmployeeManagementSample02.pdb
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\EmployeeManagementSample02.Views.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\EmployeeManagementSample02.Views.pdb
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.AssemblyInfoInputs.cache
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.AssemblyInfo.cs
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.csproj.CoreCompileInputs.cache
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.RazorAssemblyInfo.cache
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.RazorAssemblyInfo.cs
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagementSample02.StaticWebAssets.Manifest.cache
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.TagHelpers.input.cache
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.TagHelpers.output.cache
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.RazorCoreGenerate.cache
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.RazorTargetAssemblyInfo.cache
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.RazorTargetAssemblyInfo.cs
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.Views.pdb
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.pdb
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.genruntimeconfig.cache
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.csproj.CopyComplete
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.csproj.AssemblyReference.cache
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\Razor\Views\Shared\EmployeeNotFound.cshtml.g.cs
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Projects\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\EmployeeManagementSample02.exe
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\EmployeeManagementSample02.deps.json
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\EmployeeManagementSample02.runtimeconfig.json
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\EmployeeManagementSample02.runtimeconfig.dev.json
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\EmployeeManagementSample02.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\EmployeeManagementSample02.pdb
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\EmployeeManagementSample02.Views.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\EmployeeManagementSample02.Views.pdb
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.AssemblyInfo.cs
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.RazorAssemblyInfo.cache
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.RazorAssemblyInfo.cs
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.TagHelpers.input.cache
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.TagHelpers.output.cache
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.RazorCoreGenerate.cache
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\Razor\Views\Shared\EmployeeNotFound.cshtml.g.cs
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.RazorTargetAssemblyInfo.cache
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.RazorTargetAssemblyInfo.cs
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.Views.pdb
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagementSample02.StaticWebAssets.Manifest.cache
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.csproj.CopyComplete
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.dll
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.pdb
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\EmployeeManagementSample02.genruntimeconfig.cache
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\dell\Desktop\EmployeeManagementSample02 (1)\EmployeeManagementSample02\EmployeeManagementSample02\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagementSample02.StaticWebAssets.xml
